@@ -1,4 +1,4 @@
-Movie Web-Site
+TMDB Movie Explorer
 
 Movie Web-Siter is a web application that allows users to browse the latest movies, view movie trailers, search for movies by genre, and get detailed information about each movie. The project is built using HTML, CSS, and JavaScript, and it features a beautiful and responsive user interface.
 
@@ -59,7 +59,7 @@ Installation
 -----------------------------------------------------------------------------------------------
 
 
-Movie Web-Site
+TMDB Movie Explorer
 
 Movie Web-Site - это веб-приложение, которое позволяет пользователям просматривать последние фильмы, смотреть трейлеры фильмов, искать фильмы по жанрам и получать подробную информацию о каждом фильме. Проект создан с использованием HTML, CSS и JavaScript и имеет красивый и адаптивный интерфейс.
 
